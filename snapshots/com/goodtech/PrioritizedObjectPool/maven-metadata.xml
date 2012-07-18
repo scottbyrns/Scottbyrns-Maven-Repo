@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.goodtech</groupId>
+  <artifactId>PrioritizedObjectPool</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120718060942</lastUpdated>
+  </versioning>
+</metadata>
