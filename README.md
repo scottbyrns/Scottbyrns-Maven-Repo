@@ -25,6 +25,18 @@ To use artifacts in this repository you will need to add this repository to your
 </dependency>
 ```
 
+## Java-Redis-Aspect-Messenger
+
+* https://github.com/scottbyrns/Jav-Redis-Aspect-Messenger
+
+```xml
+<dependency>
+    <groupId>com.scottbyrns</groupId>
+    <artifactId>Jav-Redis-Aspect-Messenger</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+</dependency>
+```
+
 ## Java-JSON-Object-Mapper
 
 * https://github.com/scottbyrns/Java-JSON-Object-Mapper
