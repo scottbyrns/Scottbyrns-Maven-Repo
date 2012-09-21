@@ -57,7 +57,7 @@ To use artifacts in this repository you will need to add this repository to your
 <dependency>
     <groupId>com.scottbyrns.api</groupId>
     <artifactId>client</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.4-SNAPSHOT</version>
 </dependency>
 ```
 
