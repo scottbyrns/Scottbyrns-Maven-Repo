@@ -108,3 +108,27 @@ To use artifacts in this repository you will need to add this repository to your
     <version>1.0.1-SNAPSHOT</version>
 </dependency>
 ```
+
+#Something Good Artifacts
+
+
+## Good Tech Education Entities
+
+```xml
+<dependency>
+    <groupId>org.good</groupId>
+    <artifactId>Education</artifactId>
+    <version>1.0.03-SNAPSHOT</version>
+</dependency>
+```
+
+
+## Good Tech Foundation
+
+```xml
+        <dependency>
+            <groupId>org.good.tech.Foundation</groupId>
+            <artifactId>Foundation</artifactId>
+            <version>1.0.03-SNAPSHOT</version>
+        </dependency>
+```
