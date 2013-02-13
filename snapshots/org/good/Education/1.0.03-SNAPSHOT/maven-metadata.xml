@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.good</groupId>
+  <artifactId>Education</artifactId>
+  <version>1.0.03-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130213.125505</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20130213125505</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.03-20130213.125505-2</value>
+        <updated>20130213125505</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.03-20130213.125505-2</value>
+        <updated>20130213125505</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
